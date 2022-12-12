@@ -1,2 +1,2 @@
 # calculator
-calculator made with HTML, CSS, Javascript
+This is a very simple calculator app to practice HTML, CSS, and Javascript
